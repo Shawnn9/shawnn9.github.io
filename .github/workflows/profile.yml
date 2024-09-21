@@ -1,0 +1,13 @@
+name: Profile
+
+on:
+  workflow_dispatch:
+    branches:
+      - main
+
+jobs:
+  profile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Profile
+        run: echo "This is my profile repository!"
