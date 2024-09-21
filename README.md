@@ -2,6 +2,8 @@
 
 #### I'm a Full Stack developer 🤖 from Israel 🇮🇱.
 
+I'm currently working on my open source projects.
+
 You can find me on:
 
 * 🌎 [My Web](https://shawneliezer.co)
